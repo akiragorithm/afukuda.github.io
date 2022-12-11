@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor at the Department of Economics, Takushoku University. I have a BA from the Keio University  and a Ph.D. from Keio University. 
+I am a Assistant Professor at the Department of Economics, Takushoku University. I have a Ph.D. from Keio University. 
 
 Research Interests
 ======
