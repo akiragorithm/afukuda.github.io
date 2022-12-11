@@ -4,12 +4,11 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: September 2020.
-venue: 'Japan and the World Economy, Vol.55, pp.1-8.'
+venue: 'Japan and the World Economy, Vol.55.'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0922142520300141'
-citation: 'Akira, F.,(2020). &quot;The Effects of M&A on Corporate Performance in Japan : DID Analysis in the Era of Corporate Governance Reform.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Akira, F.,(2020). &quot;The Effects of M&A on Corporate Performance in Japan : DID Analysis in the Era of Corporate Governance Reform.&quot; <i>Japan and the World Economy</i>. Vol.55.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0922142520300141)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Akira, F.,(2020). "The Effects of M&A on Corporate Performance in Japan : DID Analysis in the Era of Corporate Governance Reform." <i>Japan and the World Economy</i>. Vol.55.
