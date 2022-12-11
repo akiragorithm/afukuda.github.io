@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The impacts of policy measures on Japanese SMEs during the pandemic"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
