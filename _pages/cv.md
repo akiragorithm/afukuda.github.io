@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2019: Researcher at Panel Data Research Center (PDRC)
+* 2019-2022: Researcher at Panel Data Research Center (PDRC)
   * Keio University
 
 <!-- Skills
