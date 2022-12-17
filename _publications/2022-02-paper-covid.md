@@ -2,7 +2,7 @@
 title: "The impacts of policy measures on Japanese SMEs during the pandemic"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2022-02-01
 venue: 'Applied Economics Letters'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2039365'
