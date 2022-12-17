@@ -1,9 +1,9 @@
 ---
 title: "東洋大学"
 collection: teaching
-type: "経済学部"
+type: "非常勤"
 permalink: /teaching/2014-spring-teaching-1
-venue: "東洋大学, 経済学部"
+venue: "経済学部"
 date: 2021-04-01
 location: "City, Country"
 ---
