@@ -1,9 +1,9 @@
 ---
 title: "拓殖大学"
 collection: teaching
-type: "政経学部"
+type: "助教"
 permalink: /teaching/2015-spring-teaching-1
-venue: "拓殖大学, 政経学部"
+venue: "政経学部"
 date: 2023-04-01
 location: "Tokyo, Japan"
 ---
